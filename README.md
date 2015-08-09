@@ -12,11 +12,11 @@ ________________________________________________________________________________
 ## My Plot 3
 ![plot of chunk unnamed-chunk-4](https://cloud.githubusercontent.com/assets/8188574/4967033/8e11db2a-67f3-11e4-9c40-a7f62897fd04.png) 
 _____________________________________________________________________________________________________________________________
-<a href="https://github.com/erapryde/ExData_Plotting1/blob/master/plot3.r">plot3.r</a>
+See <a href="https://github.com/erapryde/ExData_Plotting1/blob/master/plot3.r">plot3.r</a>
 _____________________________________________________________________________________________________________________________
 ## My Plot 4
 ![plot of chunk unnamed-chunk-5](https://cloud.githubusercontent.com/assets/8188574/4967035/a0401bb8-67f3-11e4-9354-88c98ab21aaa.png) 
 _____________________________________________________________________________________________________________________________
-<a href="https://github.com/erapryde/ExData_Plotting1/blob/master/plot4.r">plot4.r</a>
+See <a href="https://github.com/erapryde/ExData_Plotting1/blob/master/plot4.r">plot4.r</a>
 _____________________________________________________________________________________________________________
 
