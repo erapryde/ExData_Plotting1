@@ -2,7 +2,7 @@
 ## My Plot 1
 ![plot of chunk unnamed-chunk-2](https://cloud.githubusercontent.com/assets/8188574/4967027/671ec956-67f3-11e4-8ecf-b3950c439efe.png) 
 _____________________________________________________________________________________________________________________________
-See plot1.r
+See <a href="https://github.com/erapryde/ExData_Plotting1/blob/master/plot1.r">plot1.r</a>
 _____________________________________________________________________________________________________________________________
 ## My Plot 2
 ![plot of chunk unnamed-chunk-3](https://cloud.githubusercontent.com/assets/8188574/4967030/82243254-67f3-11e4-9130-0e767ed69c37.png) 
